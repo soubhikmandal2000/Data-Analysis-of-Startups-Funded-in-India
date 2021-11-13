@@ -1,14 +1,12 @@
-# Startups-in-India
+# Data Analysis of Startups Funded in India
 
 <h3>This notebook explores the analysis of indian startup funding and basically gives answer of following questions :- </h3>
 
-1.How does the funding ecosystem change with time ?</br>
--(Number of funding per month)</br>
-2.How much funds does startups generally get in India ?</br>
--(maximum funding, minimum funding , average funding and number of fundings)</br>
-3.Which industries are favored by investors for funding ? </br>
-4.Which type of companies got more easily funding ?</br>
-5.Do cities play a major role in funding ?</br>
-6.Which city has maximum startups ?</br>
-7.Who is the important investors in the Indian Ecosystem?</br>
-8.What are different types of funding for startups ?</br>
+1. What is the evolution of the finance ecosystem over time?</br>
+2. In India, how much money do startups usually get?</br>
+3. Which businesses are preferred by investors when it comes to funding?</br>
+4. Which kind of businesses were more likely to receive funding?</br>
+5. Do localities have a significant impact on funding?</br>
+6. Which location has the most startup companies?</br>
+7. Who are the key investors in the Economic growth of the country?</br>
+8. What are all the different sorts of startup funding?</br>
